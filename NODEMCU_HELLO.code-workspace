@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ESP_RTOS_HELLO",
+			"path": "../../RTOS_SDK/ESP_RTOS_HELLO"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_system.h": "c",
+			"esp_common.h": "c",
+			"task.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"ranges": "cpp"
+		}
+	}
+}
